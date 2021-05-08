@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+I am Connor Mills (He/Him).
+I am the Co-founder & Chief Engineer at Jikoo.
+
+Jikoo is a startup company that aims to help users make and keep meaningful connections online & in the real world.
+You can check out what Jikoo is working on [here](Jikoo.co).
+
+My personal github profile is [KojoOkami](github.com/KojoOkami) if you want to see some other projects I have worked on and more about me!
 
 <!--
 **Jikoo-Connor/Jikoo-Connor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
